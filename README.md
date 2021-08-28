@@ -1,2 +1,2 @@
 # leetcode_solution
-my own solution for leetcode issues
+To record the basic problem while progtaming.
